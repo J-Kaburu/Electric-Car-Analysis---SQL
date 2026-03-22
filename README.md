@@ -19,8 +19,8 @@ Using **aggregation logic**, I identified which brands dominate the luxury marke
 
 ### 2. Market Valuation & Volume
 
-***Total Inventory Value:** Calculated the cumulative price of all listed EV models to understand total market capitalization.
-***Brand Portfolio Strength:** Identified market leaders by counting the number of unique models per brand, specifically highlighting those with more than 4 models.
+* **Total Inventory Value:** Calculated the cumulative price of all listed EV models to understand total market capitalization.
+* **Brand Portfolio Strength:** Identified market leaders by counting the number of unique models per brand, specifically highlighting those with more than 4 models.
 
 ### 3. Performance vs. Affordability
 
