@@ -24,21 +24,21 @@ Using **aggregation logic**, I identified which brands dominate the luxury marke
 
 ### 3. Performance vs. Affordability
 
-***The "Sweet Spot" Analysis:** Isolated vehicles that offer a long driving range (above 400 km) while remaining budget-friendly (under 60,000).
-***Entry-Level Accessibility:** Filtered models priced under 30,000 to highlight the most accessible options for mass-market adoption.
+* **The "Sweet Spot" Analysis:** Isolated vehicles that offer a long driving range (above 400 km) while remaining budget-friendly (under 60,000).
+* **Entry-Level Accessibility:** Filtered models priced under 30,000 to highlight the most accessible options for mass-market adoption.
 
 ### 4. Brand-Specific Financial Audits
 
-***Premium Benchmarking:** Conducted specific price audits for brands like BMW and Volkswagen to determine average consumer entry costs.
-***Segment Analysis:** Grouped data by BodyStyle (e.g., SUVs vs. Sedans) to identify which categories command a price premium over 55,000.
+* **Premium Benchmarking:** Conducted specific price audits for brands like BMW and Volkswagen to determine average consumer entry costs.
+* **Segment Analysis:** Grouped data by BodyStyle (e.g., SUVs vs. Sedans) to identify which categories command a price premium over 55,000.
 
 ## Key Insights from the Data
 
-***Speed Leaders:** Identified the top 10 fastest EVs, including high-performance models like the Tesla Roadster (410 Km/H) and Lucid Air (250 Km/H).
-***Efficiency Giants:** Located high-endurance models with ranges reaching up to 970 km.
-***Market Diversity:** The dataset covers a wide spectrum from the affordable SEAT Mii Electric (20,129) to the ultra-luxury Tesla Roadster (215,000).
+* **Speed Leaders:** Identified the top 10 fastest EVs, including high-performance models like the Tesla Roadster (410 Km/H) and Lucid Air (250 Km/H).
+* **Efficiency Giants:** Located high-endurance models with ranges reaching up to 970 km.
+* **Market Diversity:** The dataset covers a wide spectrum from the affordable SEAT Mii Electric (20,129) to the ultra-luxury Tesla Roadster (215,000).
 
 ## How to Use
-***Dataset:** The raw data is located in ElectricCar-csv.csv.
-***Queries:** Run the Electric Cars Analysis.sql file in any SQL editor to reproduce the findings.
+* **Dataset:** The raw data is located in ElectricCar-csv.csv.
+* **Queries:** Run the Electric Cars Analysis.sql file in any SQL editor to reproduce the findings.
 
